@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://flamboyant-mestorf-66c037.netlify.app/)
+- Live Site URL: (https://flamboyant-mestorf-66c037.netlify.app/)
 
 ## My process
 Used Viual studio code to build this website from a design i was given bt Front end Mentor.
@@ -45,15 +45,15 @@ Used Viual studio code to build this website from a design i was given bt Front 
 ### What I learned
 
 !important to keep in mid always, dont forget to assign template areas to what you want to be inside. For example img add
-
+```
 .grid img{
   grid-area: img;
 } 
-
+```
 and that should do it.
 
 Css Grid:
-
+```
 .grid{
   display: grid;
   height: 2.5rem;
@@ -67,15 +67,15 @@ Css Grid:
   border-radius: .5rem;
 }
 
-
+```
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/) - This helped with some syntax and Values i needed to remember.
-- [Example resource 2](https://www.w3schools.com/) - This helped with some syntax and Values i needed to remember..
+- [Developer Mozilla](https://developer.mozilla.org/en-US/) - This helped with some syntax and Values i needed to remember.
+- [W3 Schools](https://www.w3schools.com/) - This helped with some syntax and Values i needed to remember..
 
 ## Author
 
-- Website - [Marco](https://github.com/darkmagic2)
+- Website - [Marco's git](https://github.com/darkmagic2)
 - Frontend Mentor - [@darkmagic2](https://www.frontendmentor.io/profile/darkmagic2)
 
 
