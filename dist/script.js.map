@@ -1,1 +1,0 @@
-{"version":3,"sources":["script.js"],"names":["console","Log"],"mappings":"AAAA,aAAAA,QAAQC,IAAI","file":"script.js","sourcesContent":["console.Log(\"hello\");"]}
